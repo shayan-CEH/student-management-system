@@ -56,7 +56,7 @@ cd student-management-system
 Run the program
 
 ```
-python main.py
+python student-management-system.py
 ```
 
 🧠 Future Improvements
