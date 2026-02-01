@@ -68,6 +68,6 @@ User authentication
 
 Export data to CSV
 
-👨‍💻 Author
-Shayan Imran
+## 👨‍💻 Author
+## SHAYAN
 📍 Python Beginner Project
